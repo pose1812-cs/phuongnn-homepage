@@ -13,7 +13,7 @@ main:
     url: /research/
 
   - title: "Publications (Google Scholar)"
-    url: https://scholar.google.com/citations?user=Q02hZnQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=iBEGVm4AAAAJ&hl=en
      
   # - title: "Teaching"
   #   url: /teaching/    
@@ -22,4 +22,4 @@ main:
   #   url: /students/
 
   - title: "CV"
-    url: files/CV-Manh-Cuong-Phan.pdf
+    url: #files/CV-Manh-Cuong-Phan.pdf

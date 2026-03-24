@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the Hung Yen University of Technology and Education and an AI Engineer at AI Academy Vietnam. My research focuses broadly on Natural Language Processing, Large Language Models (LLMs), and the application of Artificial Intelligence in psychology. I have published works in several international conferences, including EMNLP, PACLIC, and KSE. See below for more specific research interests and application domains. If you are unable to locate any of my publications or projects, please feel free to contact me. I am happy to share them.
+I am a Lecturer and a Master's student in Computer Science at the Hung Yen University of Technology and Education. Building upon my foundational background in the Internet of Things (IoT), my current research focuses broadly on Deep Learning, Natural Language Processing (NLP), and the application of Artificial Intelligence in mental health support. I have contributed to works published in and submitted to several international conferences, including PACLIC , ACL , and ICALT. See below for more specific research interests and application domains. If you are unable to locate any of my publications or projects, please feel free to contact me. I am happy to share them.
 
 Research Interests
 ====
 Natural Language Processing (NLP)  
-Empathetic Artificial Intelligence (Empathetic AI)  
-Cognitive Psychology
+Artificial Intelligence in Mental Health Support  
+Internet of Things (IoT) & Embedded Systems  

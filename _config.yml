@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "vi-VI"
-title                    : "Manh-Cuong Phan"
+title                    : "Ngoc-Phuong Nguyen"
 title_separator          : "-"
-name                     : &name "Manh-Cuong Phan"
+name                     : &name "Ngoc-Phuong Nguyen"
 description              : &description ""
-url                      : https://cuongpm-cs.github.io/cuongpm-homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/pose1812-cs/phuongnn-homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cuongpm-cs/cuongpm-cs.github.io"
+repository               : "pose1812-cs/phuongnn-homepage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Manh-Cuong Phan, Engineeer Student"
-  avatar           : "cuongpm-cs.jpg"
-  bio              : "Engineeer Student, Computer Science & Engineering"
+  name             : "Manh-Cuong Phan, Master Student"
+  avatar           : "phuong-nn.jpg"
+  bio              : "Master Student, Computer Science & Engineering"
   location         : "Hung Yen, Viet Nam"
   employer         : "Hung Yen University of <br>Technology and Eucation"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Q02hZnQAAAAJ&hl=en"
-  email            : "cuongpm@spkt.edu.vn"
+  googlescholar    : "https://scholar.google.com/citations?user=iBEGVm4AAAAJ&hl=en"
+  email            : "nguyenngocphuong@utehy.edu.vn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cuongpm-cs"
+  github           : "pose1812-cs"
   google_plus      :
   keybase          :
   instagram        :
